@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Æ web文字方案</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io</link><description>你想要的解决方案都在这里!</description><copyright>Æ web文字方案</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188867824?v=4&amp;size=64</url><title>avatar</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io</link></image><lastBuildDate>Sat, 24 May 2025 06:40:34 +0000</lastBuildDate><managingEditor>Æ web文字方案</managingEditor><ttl>60</ttl><webMaster>Æ web文字方案</webMaster><item><title>极域电子教室解除控制</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io/post/ji-yu-dian-zi-jiao-shi-jie-chu-kong-zhi.html</link><description># 对于解除极域电子教室应用程序控制的解决方案
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Æ web文字方案</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io</link><description>你想要的解决方案都在这里!</description><copyright>Æ web文字方案</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188867824?v=4&amp;size=64</url><title>avatar</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io</link></image><lastBuildDate>Thu, 29 May 2025 05:24:24 +0000</lastBuildDate><managingEditor>Æ web文字方案</managingEditor><ttl>60</ttl><webMaster>Æ web文字方案</webMaster><item><title>我的世界常用指令合集</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io/post/wo-de-shi-jie-chang-yong-zhi-ling-he-ji.html</link><description>### 基础指令
+`/help` 查看所有可用指令
+### 游戏模式
+`/gamemode survival` 切换生存模式
+`/gamemode creative` 切换创造模式
+`/gamemode adventure` 切换冒险模式
+`/gamemode spectator` 切换旁观模式
+（如果你有权限，可以同时按下F3和F4，点击F4快捷切换游戏模式）
+### 游戏模式（1.7.10及以下版本使用）
+`/gamemode 0` 切换生存模式
+`/gamemode 1` 切换创造模式
+`/gamemode 2` 切换冒险模式
+`/gamemode 3` 切换旁观模式
+。</description><guid isPermaLink="true">https://xfchd090909.github.io/aeweb-MHome.github.io/post/wo-de-shi-jie-chang-yong-zhi-ling-he-ji.html</guid><pubDate>Thu, 29 May 2025 05:23:56 +0000</pubDate></item><item><title>极域电子教室解除控制</title><link>https://xfchd090909.github.io/aeweb-MHome.github.io/post/ji-yu-dian-zi-jiao-shi-jie-chu-kong-zhi.html</link><description># 对于解除极域电子教室应用程序控制的解决方案
 ### 最后一次更新 2021年4月
 ### 作者:快乐的梦鱼
 ### 作者主页:[https://github.com/imengyu](url)
